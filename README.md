@@ -1,2 +1,2 @@
 # game
-This query shows all games from 2000-01-02 WITHOUT AllStar games
+This query shows all games from 2000-01-02 WITHOUT AllStar games, used language is SQL
